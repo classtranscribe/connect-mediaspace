@@ -1,0 +1,16 @@
+{
+  "name": "connect-mediaspace",
+  "version": "1.0.0",
+  "description": "Grabs entryIds from mediaspace urls.",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "puppeteer": "^10.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Pramod Joshi (pro@uillinois.edu",
+  "license": "ISC"
+}
